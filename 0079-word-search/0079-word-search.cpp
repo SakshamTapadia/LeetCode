@@ -1,29 +1,46 @@
 class Solution {
 public:
-    vector <vector<int>> directions{{1,0},{-1,0},{0,1},{0,-1}};
-    int m,n;
-    bool find(vector<vector<char>>& board,int i ,int j,int idx, string& word){
-        if(idx == word.length()) return true;
-        if(i<0 || j<0 || i>=m || j>=n || board[i][j] == '$') return false;
-        if(board[i][j] != word[idx]) return false;
-        char temp = board[i][j];
-        board[i][j] = '$';
-        for(auto &dir : directions){
-            int new_i = i+ dir[0];
-            int new_j = j+ dir[1];
+    int dx[4] = {-1, 0, 1, 0};
+    int dy[4] = {0, 1, 0, -1};
+    bool dfs(vector<vector<char>>& board, string& word, int i, int x, int y) {
+        if (i == word.size())
+            return true;
+        if (x < 0 or x >= board.size() or y < 0 or y >= board[x].size())
+            return false;
+        if (word[i] != board[x][y])
+            return false;
 
-            if(find(board,new_i,new_j,idx+1,word)) return true;
+        char temp = board[x][y];
+        board[x][y] = '-1';
+        for (int d = 0; d < 4; d++) {
+            if (dfs(board, word, i + 1, x + dx[d], y + dy[d])) {
+                return true;
+            }
         }
-        board[i][j]=temp;
+        board[x][y] = temp;
+
         return false;
     }
-
     bool exist(vector<vector<char>>& board, string word) {
-        m = board.size();
-        n = board[0].size();
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(board[i][j] == word[0] && find(board,i,j,0,word)) return true;
+        unordered_map<char, int> boardCount, wordCount;
+        for (auto& row : board)
+            for (char c : row)
+                boardCount[c]++;
+        for (char c : word) {
+            wordCount[c]++;
+            if (wordCount[c] > boardCount[c])
+                return false;
+        }
+
+        if (boardCount[word[0]] > boardCount[word.back()])
+            reverse(word.begin(), word.end());
+        
+        
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < board[i].size(); j++) {
+                if (dfs(board, word, 0, i, j)) {
+                    return true;
+                }
             }
         }
         return false;
