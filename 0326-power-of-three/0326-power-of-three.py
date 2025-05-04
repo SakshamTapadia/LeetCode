@@ -4,8 +4,4 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        while n>2:
-            if n%3:
-                return False
-            n//=3
-        return n==1
+        return n>0 and 1162261467%n==0
