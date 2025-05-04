@@ -57,4 +57,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SakshamTapadia/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
