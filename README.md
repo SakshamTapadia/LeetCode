@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
@@ -30,9 +31,22 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
