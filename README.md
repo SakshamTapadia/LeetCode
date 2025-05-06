@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -66,4 +67,16 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
