@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<int> corpFlightBookings(vector<vector<int>>& bookings, int n) {
-        vector<int> seats(n,0);
-        for(auto &it: bookings){
-            int first = it[0];
-            int last = it[1];
-            int seat = it[2];
-
-            for(int i = first-1 ; i <= last-1 ;i++){
-                seats[i] += seat;
-            }
+        vector<int> v(n+1, 0);
+        for(auto& i : bookings)
+        {
+            v[i[0] - 1] += i[2];
+            v[i[1]] -= i[2];
         }
-        return seats;
+
+        vector<int> res;
+        res.push_back(v[0]);
+        for(int i=1;i<n;i++) res.push_back(res.back() + v[i]);
+        return res;
     }
 };
