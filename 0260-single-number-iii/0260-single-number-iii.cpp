@@ -5,7 +5,7 @@ public:
         for (int& x : nums) {
             xs ^= x;
         }
-        int lb = xs & -xs;
+        int lb = xs & (~(xs-1));
         int a = 0;
         for (int& x : nums) {
             if (x & lb) {
