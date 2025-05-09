@@ -12,11 +12,13 @@
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/SakshamTapadia/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
+| [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
