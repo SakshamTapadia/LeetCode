@@ -15,6 +15,7 @@
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/SakshamTapadia/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
@@ -40,6 +42,7 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +103,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SakshamTapadia/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
