@@ -1,13 +1,23 @@
 class Solution {
 public:
     vector<string> getLongestSubsequence(vector<string>& words, vector<int>& groups) {
-        int n = groups.size();
-        vector<string> ans;
-        for (int i = 0; i < n; ++i) {
-            if (i == 0 || groups[i] != groups[i - 1]) {
-                ans.emplace_back(words[i]);
+        const int n=groups.size();
+        int prev=groups[0];
+        vector<int> idx={0};
+        int len=1;
+        for(int i=1; i<n; i++){
+            while(i<n && prev==groups[i])
+                i++;
+            if (i<n) {
+                idx.push_back(i);
+                len++;
+                prev=groups[i];
             }
         }
-        return ans;
+        for(int i=0, j=0; j<len; j++){
+            words[i++]=words[idx[j]];
+        }
+        words.resize(len);
+        return words;
     }
 };
