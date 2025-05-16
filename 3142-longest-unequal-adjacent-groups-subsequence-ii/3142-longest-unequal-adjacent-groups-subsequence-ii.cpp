@@ -1,35 +1,37 @@
 class Solution {
 public:
-    vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
-        int n = words.size();
-        const auto& check = [&](const auto& s1, const auto& s2) {
-            if (s1.size() != s2.size()) return false;
-            int cnt = 0;
-            for (int k = 0; k < s1.size(); ++k) {
-                if (s1[k] != s2[k]) cnt++;
-                if (cnt == 2) return false;
-            }
-            return cnt == 1;
-        };
-        vector<pair<int, int>> dp(n, {1, -1});
+    bool hamming1(const string& s, const string& t){
+        const int sz = s.size();
+        if (sz != t.size()) return false;
+        int diff = 0;
+        for (int i = 0; i < sz && diff < 2; i++)
+            diff += s[i] != t[i];
+        return diff == 1;
+    }
 
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (groups[i] != groups[j] && check(words[j], words[i])) {
-                    if (dp[j].first + 1 > dp[i].first) {
-                        dp[i] = {dp[j].first + 1, j};
+    vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
+        const int n = words.size();
+        int maxLen = 0, pos = -1;
+        vector<int> dp(n, 1), prev(n, -1);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < i; j++){
+                if(groups[i] != groups[j] && hamming1(words[i], words[j])){
+                    if(dp[j] + 1 > dp[i]){
+                        dp[i] = dp[j] + 1;
+                        prev[i] = j;
                     }
                 }
             }
+            if(dp[i] > maxLen){
+                maxLen = dp[i];
+                pos = i;
+            }
         }
-        int idx = max_element(dp.begin(), dp.end()) - dp.begin();
-
-        vector<string> result;
-        while (idx != -1) {
-            result.push_back(words[idx]);
-            idx = dp[idx].second;
+        vector<string> ans;
+        for(; pos != -1; pos = prev[pos]){
+            ans.push_back(words[pos]);
         }
-        reverse(result.begin(), result.end());
-        return result;
+        reverse(ans.begin(), ans.end());
+        return ans;
     }
 };
