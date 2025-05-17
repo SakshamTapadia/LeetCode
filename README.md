@@ -3,6 +3,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -150,6 +152,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
