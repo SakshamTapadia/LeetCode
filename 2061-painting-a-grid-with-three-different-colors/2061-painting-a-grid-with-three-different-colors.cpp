@@ -1,59 +1,56 @@
 class Solution {
 public:
+    vector<string> stripes;
+    vector<char> temp;
+    int p = 1e9 + 7;
     int colorTheGrid(int m, int n) {
-        auto f1 = [&](int x) {
-            int last = -1;
-            for (int i = 0; i < m; ++i) {
-                if (x % 3 == last) {
-                    return false;
-                }
-                last = x % 3;
-                x /= 3;
+        dfs(m, ' ', 0);
+        int z = stripes.size();
+        vector<vector<int>> adj(z);
+        for(int i = 0; i < z; i++)
+        for(int j = i + 1; j < z; j++)
+            if(!conflict(i, j)) {
+                adj[i].push_back(j);
+                adj[j].push_back(i);
             }
-            return true;
-        };
-        auto f2 = [&](int x, int y) {
-            for (int i = 0; i < m; ++i) {
-                if (x % 3 == y % 3) {
-                    return false;
-                }
-                x /= 3;
-                y /= 3;
+        vector<vector<int>> dp(n, vector<int>(z));
+        for(int i = 0; i < n; i++)
+        for(int j = 0; j < z; j++)
+            if(i == 0) dp[i][j] = 1;
+            else for(int nbr : adj[j])
+                dp[i][j] = (dp[i][j] + dp[i - 1][nbr]) % p;
+        int total = 0;
+        for(int j = 0; j < z; j++)
+            total = (total + dp[n - 1][j]) % p;
+        return total;
+    }
+    bool conflict(int i, int j) {
+        string a = stripes[i], b = stripes[j];
+        for(int i = 0; i < a.size(); i++)
+            if(a[i] == b[i]) return true;
+        return false;
+    }
+    void dfs(int m, char last, int j) {
+        if(j == m) {
+            string s = "";
+            for(char c : temp) s += c;
+            stripes.push_back(s);
+        } else {
+            if(last != 'r') {
+                temp.push_back('r');
+                dfs(m, 'r', j + 1);
+                temp.pop_back();
             }
-            return true;
-        };
-
-        const int mod = 1e9 + 7;
-        int mx = pow(3, m);
-        unordered_set<int> valid;
-        vector<int> f(mx);
-        for (int i = 0; i < mx; ++i) {
-            if (f1(i)) {
-                valid.insert(i);
-                f[i] = 1;
+            if(last != 'b') {
+                temp.push_back('b');
+                dfs(m, 'b', j + 1);
+                temp.pop_back();
+            }
+            if(last != 'g') {
+                temp.push_back('g');
+                dfs(m, 'g', j + 1);
+                temp.pop_back();
             }
         }
-        unordered_map<int, vector<int>> d;
-        for (int i : valid) {
-            for (int j : valid) {
-                if (f2(i, j)) {
-                    d[i].push_back(j);
-                }
-            }
-        }
-        for (int k = 1; k < n; ++k) {
-            vector<int> g(mx);
-            for (int i : valid) {
-                for (int j : d[i]) {
-                    g[i] = (g[i] + f[j]) % mod;
-                }
-            }
-            f = move(g);
-        }
-        int ans = 0;
-        for (int x : f) {
-            ans = (ans + x) % mod;
-        }
-        return ans;
     }
 };
