@@ -76,6 +76,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [3639-zero-array-transformation-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -159,12 +161,14 @@
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SakshamTapadia/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
 |  |
 | ------- |
