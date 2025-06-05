@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -274,4 +275,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
