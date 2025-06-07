@@ -1,29 +1,31 @@
 class Solution {
-public:
+    public:
     string clearStars(string s) {
-        stack<int> g[26];
-        int n = s.length();
-        vector<bool> rem(n);
-        for (int i = 0; i < n; ++i) {
-            if (s[i] == '*') {
-                rem[i] = true;
-                for (int j = 0; j < 26; ++j) {
-                    if (!g[j].empty()) {
-                        rem[g[j].top()] = true;
-                        g[j].pop();
-                        break;
-                    }
+        priority_queue<char,vector<char>,greater<char>> pq;
+        vector<vector<int>> indices (26, vector<int>());
+        char ch;
+        for (int i = 0;i<s.size();i++){
+            if (s[i] == '*'){
+                ch = pq.top();
+                s[indices[ch - 'a'].back()] = '!';
+                indices[ch - 'a'].pop_back();
+                if (indices[ch - 'a'].size() == 0){  
+                    pq.pop();
                 }
-            } else {
-                g[s[i] - 'a'].push(i);
+				continue;
+            }
+            if (indices[s[i] - 'a'].size() == 0){  
+                pq.push(s[i]);
+            }
+            indices[s[i] - 'a'].push_back(i);
+        }
+
+        string res = "";
+        for (char c: s){
+            if (c >= 'a') { 
+                res += c; 
             }
         }
-        string ans;
-        for (int i = 0; i < n; ++i) {
-            if (!rem[i]) {
-                ans.push_back(s[i]);
-            }
-        }
-        return ans;
+        return res;
     }
 };
