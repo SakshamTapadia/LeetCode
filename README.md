@@ -3,6 +3,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -13,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
@@ -30,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0806-domino-and-tromino-tiling](https://github.com/SakshamTapadia/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
