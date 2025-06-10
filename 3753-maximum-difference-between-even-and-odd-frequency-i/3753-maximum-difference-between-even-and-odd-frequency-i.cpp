@@ -1,22 +1,14 @@
 class Solution {
- public:
-  int maxDifference(string s) {
-    vector<int> count(26);
-    int maxOdd = 0;
-    int minEven = s.length();
-
-    for (const char c : s)
-      ++count[c - 'a'];
-
-    for (const int freq : count) {
-      if (freq == 0)
-        continue;
-      if (freq % 2 == 0)
-        minEven = min(minEven, freq);
-      else
-        maxOdd = max(maxOdd, freq);
+public:
+    int maxDifference(string s) {
+        int odd=-1;
+        int even=INT_MAX;
+        vector<int> frq(26);
+        for(char c:s) frq[c-'a']++;
+        for(int i=0;i<26;i++){
+            if(frq[i]%2) odd=max(odd,frq[i]);
+            else if(frq[i]) even=min(even,frq[i]);
+        }
+        return odd-even;
     }
-
-    return maxOdd - minEven;
-  }
 };
