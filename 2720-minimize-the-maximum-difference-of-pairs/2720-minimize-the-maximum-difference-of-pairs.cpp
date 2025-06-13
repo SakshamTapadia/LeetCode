@@ -1,30 +1,32 @@
 class Solution {
- public:
-  int minimizeMax(vector<int>& nums, int p) {
-    ranges::sort(nums);
+public:
+    int minimizeMax(vector<int>& nums, int p) {
+        if (p == 0) return 0;
+        
+        sort(nums.begin(), nums.end());
+        
+        int minThrehold = 0;
+        int maxThrehold = nums[nums.size() - 1] - nums[0];
 
-    int l = 0;
-    int r = nums.back() - nums.front();
+        while (minThrehold < maxThrehold) {
+            int candidateThrehold = minThrehold + (maxThrehold - minThrehold) / 2;  
 
-    while (l < r) {
-      const int m = (l + r) / 2;
-      if (numPairs(nums, m) >= p)
-        r = m;
-      else
-        l = m + 1;
+            int pairs = 0;
+
+            for (int i = 1; i < nums.size(); ++i) {
+                if (candidateThrehold >= nums[i] - nums[i - 1]) {
+                    ++pairs;
+                    ++i;
+                }
+            }
+
+            if (pairs >= p) { 
+                maxThrehold = candidateThrehold;
+            } else { 
+                minThrehold = candidateThrehold + 1;
+            }
+        }
+
+        return minThrehold;
     }
-
-    return l;
-  }
-
- private:
-  int numPairs(const vector<int>& nums, int maxDiff) {
-    int pairs = 0;
-    for (int i = 1; i < nums.size(); ++i)
-      if (nums[i] - nums[i - 1] <= maxDiff) {
-        ++pairs;
-        ++i;
-      }
-    return pairs;
-  }
 };
