@@ -316,6 +316,7 @@
 | ------- |
 | [0180-consecutive-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/SakshamTapadia/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/SakshamTapadia/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SakshamTapadia/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SakshamTapadia/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/SakshamTapadia/LeetCode/tree/master/0577-employee-bonus) |
