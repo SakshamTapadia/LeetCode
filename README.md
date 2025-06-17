@@ -107,6 +107,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SakshamTapadia/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
+| [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
@@ -162,6 +164,7 @@
 | [1206-corporate-flight-bookings](https://github.com/SakshamTapadia/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3639-zero-array-transformation-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
