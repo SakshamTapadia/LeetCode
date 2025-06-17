@@ -78,6 +78,7 @@
 | [0135-candy](https://github.com/SakshamTapadia/LeetCode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/SakshamTapadia/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SakshamTapadia/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1206-corporate-flight-bookings](https://github.com/SakshamTapadia/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -369,4 +371,8 @@
 | [2087-confirmation-rate](https://github.com/SakshamTapadia/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SakshamTapadia/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SakshamTapadia/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
