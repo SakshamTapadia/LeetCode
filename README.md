@@ -56,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
