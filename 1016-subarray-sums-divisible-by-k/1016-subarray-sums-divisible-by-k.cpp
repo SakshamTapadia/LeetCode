@@ -3,7 +3,7 @@ public:
     int subarraysDivByK(vector<int>& nums, int k) {
         int count = 0;
         int prefixSum = 0;
-        std::unordered_map<int, int> prefixMap;
+        unordered_map<int, int> prefixMap;
         prefixMap[0] = 1; 
         for (int num : nums) {
             prefixSum += num;
