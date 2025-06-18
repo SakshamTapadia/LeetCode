@@ -30,6 +30,7 @@
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1797-goal-parser-interpretation](https://github.com/SakshamTapadia/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/SakshamTapadia/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
