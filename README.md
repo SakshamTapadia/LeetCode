@@ -30,6 +30,7 @@
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1797-goal-parser-interpretation](https://github.com/SakshamTapadia/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/SakshamTapadia/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -215,6 +216,7 @@
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
