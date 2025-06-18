@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -31,6 +32,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SakshamTapadia/LeetCode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
