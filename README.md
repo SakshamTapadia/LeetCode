@@ -6,6 +6,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SakshamTapadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/SakshamTapadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
