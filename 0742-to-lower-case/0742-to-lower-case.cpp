@@ -1,9 +1,10 @@
 class Solution {
 public:
     string toLowerCase(string s) {
-        for(auto &x: s){
-            x =tolower(x);
+        string temp = s;
+        for (int i = 0; i < temp.size(); i++) {
+            temp[i] = tolower(temp[i]);
         }
-        return s;
+        return temp;
     }
 };
