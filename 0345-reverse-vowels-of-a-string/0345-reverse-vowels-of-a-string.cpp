@@ -1,25 +1,23 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        string word = s;
-        int start = 0;
-        int end = s.length() - 1;
-        string vowels = "aeiouAEIOU";
-        
-        while (start < end) {
-            while (start < end && vowels.find(word[start]) == string::npos) {
-                start++;
+        vector<char> ans;
+        vector<int> temp;
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == 'a' || s[i] == 'A' || s[i] == 'e' || s[i] == 'E' ||
+                s[i] == 'i' || s[i] == 'I' || s[i] == 'o' || s[i] == 'O' ||
+                s[i] == 'u' || s[i] == 'U') {
+                ans.push_back(s[i]);
+                temp.push_back(i);
             }
-            
-            while (start < end && vowels.find(word[end]) == string::npos) {
-                end--;
-            }
-            
-            swap(word[start], word[end]);
-        
-            start++;
-            end--;
         }
-        return word;
+        int y = 0;
+        int x = ans.size() - 1;
+        while (y < temp.size()) {
+            s[temp[y]] = ans[x];
+            y++;
+            x--;
+        }
+        return s;
     }
 };
