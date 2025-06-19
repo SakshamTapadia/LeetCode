@@ -31,6 +31,7 @@
 | [0344-reverse-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0520-detect-capital](https://github.com/SakshamTapadia/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -286,6 +287,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -373,6 +375,7 @@
 | ------- |
 | [0135-candy](https://github.com/SakshamTapadia/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
