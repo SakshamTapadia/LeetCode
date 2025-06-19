@@ -125,6 +125,7 @@
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SakshamTapadia/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/SakshamTapadia/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -349,6 +350,7 @@
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SakshamTapadia/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SakshamTapadia/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Combinatorics
 |  |
