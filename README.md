@@ -202,6 +202,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SakshamTapadia/LeetCode/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SakshamTapadia/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SakshamTapadia/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SakshamTapadia/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
