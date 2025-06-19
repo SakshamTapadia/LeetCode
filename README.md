@@ -109,6 +109,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/SakshamTapadia/LeetCode/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SakshamTapadia/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0260-single-number-iii) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SakshamTapadia/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SakshamTapadia/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SakshamTapadia/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
