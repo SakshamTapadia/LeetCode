@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SakshamTapadia/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -335,6 +336,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SakshamTapadia/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
