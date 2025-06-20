@@ -1,19 +1,24 @@
 class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
-        int l = 0, r = ranges::max(candies);
-        while (l < r) {
-            int mid = (l + r + 1) >> 1;
+        int low = 1;
+        int high = *max_element(candies.begin(), candies.end());
+        int result = 0;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             long long cnt = 0;
             for (int x : candies) {
                 cnt += x / mid;
             }
             if (cnt >= k) {
-                l = mid;
+                result = mid;
+                low = mid + 1;
             } else {
-                r = mid - 1;
+                high = mid - 1;
             }
         }
-        return l;
+
+        return result;
     }
 };
