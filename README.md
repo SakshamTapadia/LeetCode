@@ -100,6 +100,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SakshamTapadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/SakshamTapadia/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -152,6 +153,7 @@
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SakshamTapadia/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -460,6 +463,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamTapadia/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/SakshamTapadia/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
 |  |
