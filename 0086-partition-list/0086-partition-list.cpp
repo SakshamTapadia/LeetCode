@@ -13,26 +13,29 @@ public:
     ListNode* partition(ListNode* head, int x) {
         ListNode* slist = new ListNode(0, nullptr);
         ListNode* blist = new ListNode(0, nullptr);
+
         ListNode* small = slist;
         ListNode* big = blist;
 
-        while (head != nullptr) {
-            if (head->val < x) {
-                small->next = head;
-                small = small->next;
-            } else {
-                big->next = head;
+        while(head != nullptr){
+
+            if(head->val < x){
+                ListNode* temp = new ListNode(head->val);
+                small->next = temp;
+                small = temp;
+                
+            }else{
+                ListNode* temp = new ListNode(head->val);
+                big->next = temp;
                 big = big->next;
             }
+
             head = head->next;
         }
 
         small->next = blist->next;
-        big->next = nullptr;
 
-        ListNode* result = slist->next;
-        delete slist;
-        delete blist;
-        return result;        
+        return slist->next;
+        
     }
 };
