@@ -90,6 +90,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/SakshamTapadia/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/SakshamTapadia/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamTapadia/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/SakshamTapadia/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SakshamTapadia/LeetCode/tree/master/0169-majority-element) |
