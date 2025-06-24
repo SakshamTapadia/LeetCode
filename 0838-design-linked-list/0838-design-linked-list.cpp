@@ -1,5 +1,5 @@
-class MyLinkedList {    
-public:
+class MyLinkedList {
+private:
     struct Node {
         int val;
         Node *next, *prev;
@@ -30,6 +30,7 @@ public:
         delete prevTail;
     }
 
+public:
     Node *head, *tail;
     MyLinkedList() {
         this->head = nullptr;
