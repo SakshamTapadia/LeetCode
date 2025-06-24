@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
@@ -109,6 +110,7 @@
 | [0206-reverse-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
