@@ -10,56 +10,50 @@
  */
 class Solution {
 public:
-    ListNode* reverseEvenLengthGroups(ListNode* head) {
-        vector<int>v;
-        vector<int>nums;
-        while(head){
-            nums.push_back(head->val);
-            head=head->next;
+    ListNode* reverseList(ListNode* head, ListNode* end){
+        ListNode* pre = nullptr;
+        ListNode* cur = head;
+        while(cur != end){
+            ListNode* nxt = cur->next;
+            cur->next = pre;
+            pre = cur;
+            cur = nxt;
         }
-        int i=1,j=0;
-        while(j<nums.size()){
-            vector<int>v1;
-            if(i%2==1){
-                for(int k=1;k<=i;k++){
-                    if(j<nums.size()) v1.push_back(nums[j++]);
-                   
+        return pre;
+    }
+
+    ListNode* reverseEvenLengthGroups(ListNode* head) {
+        int groupSize = 1;
+        ListNode dummy(0);
+        dummy.next = head;
+        ListNode* preGroupTail = &dummy;
+        ListNode* cur = head;
+
+        while(cur){
+            int cnt = 0;
+            ListNode* groupHead = cur;
+            ListNode* tmp = cur;
+            while(cnt < groupSize && tmp){
+                tmp = tmp->next;
+                cnt++;
+            }
+            ListNode* nextGroupHead = tmp;
+
+            if(cnt % 2 == 0){
+                ListNode* newGroupHead = reverseList(groupHead, nextGroupHead);
+                preGroupTail->next = newGroupHead;
+                groupHead->next = nextGroupHead;
+                preGroupTail = groupHead;
+            }else{
+                preGroupTail = cur;
+                for(int i = 1; i < cnt; i++){
+                    preGroupTail = preGroupTail->next;
                 }
             }
-            else{
-                
-                for(int k=1;k<=i;k++){
-                    if(j<nums.size()) v1.push_back(nums[j++]);
-                    
-                }
-                
-            }
-            if(v1.size()%2==0){
-                reverse(v1.begin(),v1.end());
-                for(auto u:v1){
-                    v.push_back(u);
-                }
-            }
-            else{
-                for(auto u:v1){
-                    v.push_back(u);
-                }
-            }
-            i++;
+            cur = nextGroupHead;
+            groupSize++;
         }
 
-        ListNode *root=NULL,*current=NULL;
-        for(auto u:v){
-            ListNode *tem=new ListNode(u);
-            if(root==NULL){
-                root=tem;
-                current=tem;
-            }
-            else{
-                current->next=tem;
-                current=current->next;
-            }
-        }
-        return root;
+        return dummy.next;
     }
 };
