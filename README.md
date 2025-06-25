@@ -317,6 +317,7 @@
 | [0143-reorder-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/SakshamTapadia/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SakshamTapadia/LeetCode/tree/master/0402-remove-k-digits) |
@@ -583,6 +584,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SakshamTapadia/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/SakshamTapadia/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0838-design-linked-list) |
 ## Simulation
