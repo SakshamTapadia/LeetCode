@@ -201,6 +201,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SakshamTapadia/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/SakshamTapadia/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SakshamTapadia/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -328,6 +329,7 @@
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -414,6 +416,7 @@
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Breadth-First Search
 |  |
 | ------- |
