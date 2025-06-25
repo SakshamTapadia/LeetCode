@@ -1,28 +1,25 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int i = 0;
-        int n = nums1.size();
-        int m = nums2.size();
+        stack<int> st;
+        unordered_map<int, int> nextGreater;
+
+        for (int num : nums2) {
+            while (!st.empty() && num > st.top()) {
+                nextGreater[st.top()] = num;
+                st.pop();
+            }
+            st.push(num);
+        }
+
+        while (!st.empty()) {
+            nextGreater[st.top()] = -1;
+            st.pop();
+        }
 
         vector<int> result;
-
-        while(i < n){
-            int j = 0;
-
-            // Find nums1[i] in nums2
-            while(j < m && nums1[i] != nums2[j]) j++;
-
-            j++; // Move to the right of nums2[j]
-            while(j < m && nums2[j] <= nums1[i]) j++;
-
-            if(j < m){
-                result.push_back(nums2[j]); // Found greater element
-            } else {
-                result.push_back(-1); // No greater element
-            }
-
-            i++;
+        for (int num : nums1) {
+            result.push_back(nextGreater[num]);
         }
 
         return result;
