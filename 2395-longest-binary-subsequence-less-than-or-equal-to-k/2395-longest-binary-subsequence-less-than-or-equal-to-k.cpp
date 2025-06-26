@@ -1,20 +1,35 @@
 class Solution {
 public:
     int longestSubsequence(string s, int k) {
-        int sm = 0;
-        int cnt = 0;
-        int bits = 32 - __builtin_clz(k);
-        for (int i = 0; i < s.size(); ++i) {
-            char ch = s[s.size() - 1 - i];
-            if (ch == '1') {
-                if (i < bits && sm + (1 << i) <= k) {
-                    sm += 1 << i;
-                    cnt++;
-                }
-            } else {
-                cnt++;
-            }
+        int n = s.size();
+        vector<int> zeros(n, 0);
+        for (int i = 1; i < n; i++) {
+            if (s[i - 1] == '0')
+                zeros[i] = zeros[i - 1] + 1;
+            else
+                zeros[i] = zeros[i - 1];
         }
-        return cnt;
+
+        int j = n - 1;
+        long long sum = 0;
+        int maxm = 0;
+        for (int i = n - 1; i >= 0; i--) {
+
+            if (s[i] == '1') {
+                while (j - i > 30) {
+                    if (s[j] == '1')
+                        sum -= pow(2, j - i);
+                    j--;
+                }
+                sum += pow(2, j - i);
+            }
+            while (j > i && sum > k) {
+                if (s[j] == '1')
+                    sum -= pow(2, j - i);
+                j--;
+            }
+            maxm = max(maxm, j - i + 1 + zeros[i]);
+        }
+        return maxm;
     }
 };
