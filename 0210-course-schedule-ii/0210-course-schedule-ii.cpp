@@ -1,38 +1,49 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> g(numCourses); // Adjacency list
-        vector<int> indeg(numCourses);     // In-degree of each node
+    void dfs(unordered_map<int,vector<int>>&adj, vector<int>&vis, vector<int>inRecursion, vector<int>&ans, int u, bool &hasCycle){
 
-        // Build graph and track in-degrees
-        for (auto& p : prerequisites) {
-            int a = p[0], b = p[1];
-            g[b].push_back(a); // b -> a means b is a prerequisite of a
-            ++indeg[a];
-        }
+        if(hasCycle) return;
+        vis[u] = 1;
+        inRecursion[u] = 1;
 
-        queue<int> q;
-        // Add nodes with 0 in-degree (no prerequisites)
-        for (int i = 0; i < numCourses; ++i) {
-            if (indeg[i] == 0) {
-                q.push(i);
+        for(auto padosi: adj[u]){
+
+            if(!vis[padosi]){
+                dfs(adj, vis, inRecursion, ans, padosi, hasCycle);
+            }
+            else if(inRecursion[padosi]){
+                hasCycle = true;
+                return;
             }
         }
 
-        vector<int> ans;
-        while (!q.empty()) {
-            int i = q.front();
-            q.pop();
-            ans.push_back(i);
+        ans.push_back(u);
+        inRecursion[u] = 0;
+    }
+    vector<int> findOrder(int V, vector<vector<int>>& edges) {
 
-            for (int j : g[i]) {
-                if (--indeg[j] == 0) {
-                    q.push(j); // Now j has no remaining prerequisites
-                }
+        unordered_map<int,vector<int>>adj;
+        vector<int>ans;
+        vector<int>vis(V, 0);
+        vector<int>inRecursion(V, 0);
+        bool hasCycle = false;
+
+        for(auto x: edges){
+            int u = x[0];
+            int v = x[1];
+
+            adj[u].push_back(v);
+        }
+
+        for(int i = 0; i < V; i++){
+            if(!vis[i]){
+                dfs(adj, vis, inRecursion, ans, i, hasCycle);
             }
         }
 
-        // If we couldn't process all courses → cycle exists
-        return ans.size() == numCourses ? ans : vector<int>();
+        if(hasCycle) return {};
+
+        return ans;
+        
     }
 };
