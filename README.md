@@ -260,6 +260,7 @@
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -435,6 +436,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SakshamTapadia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -443,6 +445,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -536,6 +539,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
 |  |
