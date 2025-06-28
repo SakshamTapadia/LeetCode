@@ -201,6 +201,7 @@
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SakshamTapadia/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/SakshamTapadia/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -444,6 +446,7 @@
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
