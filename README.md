@@ -264,6 +264,7 @@
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -399,6 +400,7 @@
 | [0239-sliding-window-maximum](https://github.com/SakshamTapadia/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
+| [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -440,6 +442,7 @@
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -449,6 +452,7 @@
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -456,6 +460,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bit Manipulation
