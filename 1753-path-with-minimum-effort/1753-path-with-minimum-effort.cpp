@@ -1,47 +1,43 @@
 class Solution {
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
-
+        if (heights.empty()) {
+            return 0;
+        }
+        
         int rows = heights.size();
         int cols = heights[0].size();
-        priority_queue<pair<int, pair<int, int>>,
-                       vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            pq;
+        std::priority_queue<std::vector<int>, std::vector<std::vector<int>>, std::greater<std::vector<int>>> minHeap; // {effort, row, col}
+        minHeap.push({0, 0, 0});
+        int maxEffort = 0;
+        std::set<std::string> visited;
 
-        vector<vector<int>> dist(rows, vector<int>(cols, INT_MAX));
+        while (!minHeap.empty()) {
+            auto current = minHeap.top();
+            minHeap.pop();
+            int effort = current[0];
+            int curRow = current[1];
+            int curCol = current[2];
 
-        dist[0][0] = 0;
-        pq.push({0, {0, 0}});
-
-        int rowArr[4] = {-1, 0, 1, 0};
-        int colArr[4] = {0, 1, 0, -1};
-
-        while (!pq.empty()) {
-            int r = pq.top().second.first;
-            int c = pq.top().second.second;
-            int d = pq.top().first;
-            pq.pop();
-            if (r == rows - 1 && c == cols - 1) {
-                return d;
+            maxEffort = std::max(maxEffort, effort);
+            if (curRow == rows - 1 && curCol == cols - 1) {
+                return maxEffort;
             }
+            visited.insert(std::to_string(curRow) + "," + std::to_string(curCol));
 
-            for (int i = 0; i < 4; i++) {
-                int adjRow = r + rowArr[i];
-                int adjCol = c + colArr[i];
-                if (adjRow >= 0 && adjRow < rows && adjCol >= 0 &&
-                    adjCol < cols) {
-                    int effort = abs(heights[adjRow][adjCol] - heights[r][c]);
-                    int maxEffort = max(effort, dist[r][c]);
+            std::vector<std::vector<int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+            for (const auto& direction : directions) {
+                int newRow = curRow + direction[0];
+                int newCol = curCol + direction[1];
 
-                    if (maxEffort < dist[adjRow][adjCol]) {
-                        dist[adjRow][adjCol] = maxEffort;
-                        pq.push({maxEffort, {adjRow, adjCol}});
-                    }
+                if (0 <= newRow && newRow < rows && 0 <= newCol && newCol < cols &&
+                    visited.find(std::to_string(newRow) + "," + std::to_string(newCol)) == visited.end()) {
+                    int newEffort = std::abs(heights[newRow][newCol] - heights[curRow][curCol]);
+                    minHeap.push({newEffort, newRow, newCol});
                 }
             }
         }
-
-        return 0;
+        
+        return maxEffort;        
     }
 };
