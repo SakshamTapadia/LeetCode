@@ -277,6 +277,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -377,6 +378,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SakshamTapadia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -396,6 +398,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SakshamTapadia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Divide and Conquer
 |  |
 | ------- |
