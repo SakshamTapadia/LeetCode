@@ -234,6 +234,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SakshamTapadia/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -573,6 +574,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SakshamTapadia/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SakshamTapadia/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Combinatorics
@@ -598,6 +600,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SakshamTapadia/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SakshamTapadia/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SakshamTapadia/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
