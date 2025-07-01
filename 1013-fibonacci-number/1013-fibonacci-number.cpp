@@ -1,13 +1,18 @@
 class Solution {
 public:
     int fib(int n) {
-        int f[n+1];
-        if (n == 1 || n == 0) return n;
-        f[0] = 0;
-        f[1] = 1; 
-        for (int i=2; i<=n; i++) {
-            f[i] = f[i-1] + f[i-2];
+        if (n == 0) return 0;
+        if (n == 1) return 1;
+
+        int prevprev = 0;
+        int prev = 1;
+        int ans = 0;
+
+        for (int i = 2; i <= n; i++) {
+            ans = prevprev + prev;
+            prevprev = prev;
+            prev = ans;
         }
-        return f[n];
+        return ans;
     }
 };
