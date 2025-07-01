@@ -1,21 +1,30 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        if (nums.size() == 1) return nums[0];
-        int p = getMax(nums, 0, nums.size() - 2);
-        int q = getMax(nums, 1, nums.size() - 1);
+    int recursion(vector<int>&nums, int i, int n, vector<int>&dp){
 
-        return max(p,q);        
+        if(i >= n) return 0;
+        if(dp[i] != -1) return dp[i];
+
+        int skip = 0, take = 0;
+
+        skip = 0 + recursion(nums, i+1, n, dp);
+        take = nums[i] + recursion(nums, i + 2, n, dp);
+
+        return dp[i] = max(skip, take);
     }
-    int getMax(vector<int>& nums, int start, int end) {
-        int prevRob = 0, maxRob = 0;
 
-        for (int i = start; i <= end; ++i) {
-            int temp = max(maxRob, prevRob + nums[i]);
-            prevRob = maxRob;
-            maxRob = temp;
-        }
+    int rob(vector<int>& nums) {
 
-        return maxRob;
-    }    
+        int n = nums.size();
+        vector<int>dp2(n + 1, -1);
+        vector<int>dp1(n + 1, -1);
+
+        if(n == 1) return nums[0];
+
+        int one = recursion(nums, 0, n - 1, dp1);
+        int two = recursion(nums, 1, n, dp2);
+
+        return max(one, two);
+        
+    }
 };
