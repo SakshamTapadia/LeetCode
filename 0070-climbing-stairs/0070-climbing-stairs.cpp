@@ -1,15 +1,17 @@
 class Solution {
 public:
+    int recursion(int n , vector<int> &dp){
+        if(n == 0)return 1;
+        if(n<0) return 0;
+        if(dp[n]!=-1) return dp[n];
+
+        int one = recursion(n-1,dp);
+        int two = recursion(n-2,dp);
+
+        return dp[n] = one+two;
+    }
     int climbStairs(int n) {
-        if (n <= 3) return n;
-        int prev1 = 3;
-        int prev2 = 2;
-        int cur = 0;
-        for (int i = 3; i < n; i++) {
-            cur = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = cur;
-        }
-        return cur;        
+        vector<int> dp(n+1 ,-1);
+        return recursion(n,dp);
     }
 };
