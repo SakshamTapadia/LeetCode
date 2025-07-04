@@ -1,25 +1,19 @@
 class Solution {
 public:
-    char kthCharacter(long long k, vector<int>& operations) {
-        int shift = 0;
-        vector<long long> lengths;
-        long long len = 1;
-
-        for (int op : operations) {
-            len *= 2;
-            lengths.push_back(len);
-            if (len >= k) break;
-        }
-
-        for (int i = lengths.size() - 1; i >= 0; --i) {
-            long long half = lengths[i] / 2;
-            int op = operations[i];
-            if (k > half) {
-                k -= half;
-                if (op == 1) shift++;
+    char kthCharacter(long long k, vector<int>& op) {
+        int n = op.size();
+        long long int inc=0;
+        while(k>1) {
+            long long len=1;
+            for(int i=0;i<n;i++) {
+                len*=2;
+                if(len>=k){
+                    inc += op[i];
+                    k = k - len/2;
+                    break;
+                }
             }
         }
-
-        return (char)((('a' - 'a' + shift) % 26) + 'a');
+        return 'a' + inc%26;
     }
 };
