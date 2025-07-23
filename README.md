@@ -63,6 +63,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SakshamTapadia/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1797-goal-parser-interpretation](https://github.com/SakshamTapadia/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/SakshamTapadia/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -415,6 +416,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
@@ -638,6 +640,7 @@
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
