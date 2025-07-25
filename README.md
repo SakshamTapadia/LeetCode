@@ -42,6 +42,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SakshamTapadia/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SakshamTapadia/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SakshamTapadia/LeetCode/tree/master/0125-valid-palindrome) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SakshamTapadia/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0213-house-robber-ii) |
@@ -390,6 +392,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SakshamTapadia/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SakshamTapadia/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
