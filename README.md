@@ -96,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/SakshamTapadia/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0337-house-robber-iii) |
@@ -201,6 +202,7 @@
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/SakshamTapadia/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SakshamTapadia/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
