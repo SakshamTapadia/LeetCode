@@ -278,6 +278,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SakshamTapadia/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SakshamTapadia/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SakshamTapadia/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/SakshamTapadia/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -382,6 +383,7 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SakshamTapadia/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -631,6 +633,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SakshamTapadia/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SakshamTapadia/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
