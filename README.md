@@ -252,6 +252,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SakshamTapadia/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/SakshamTapadia/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SakshamTapadia/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -381,6 +382,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/SakshamTapadia/LeetCode/tree/master/1206-corporate-flight-bookings) |
+| [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -405,6 +407,7 @@
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
+| [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -664,6 +667,7 @@
 | [0907-koko-eating-bananas](https://github.com/SakshamTapadia/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SakshamTapadia/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SakshamTapadia/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SakshamTapadia/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
