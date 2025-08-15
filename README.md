@@ -401,6 +401,7 @@
 | [0231-power-of-two](https://github.com/SakshamTapadia/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
@@ -430,6 +431,7 @@
 | [0231-power-of-two](https://github.com/SakshamTapadia/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -630,6 +632,7 @@
 | [0260-single-number-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
