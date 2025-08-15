@@ -1,6 +1,7 @@
 class Solution {
 public:
-    bool isPowerOfFour(int n) {
-        return n>0 && (1<<30)%n==0 && (countl_zero((unsigned)n)&1);
+        bool isPowerOfFour(int n) {
+        return n>0 && !(n & (n-1)) && !(n & 0x2aaaaaaa);
     }
+    
 };
