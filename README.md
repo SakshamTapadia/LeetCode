@@ -409,6 +409,7 @@
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
 | [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1448-maximum-69-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SakshamTapadia/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -696,6 +697,7 @@
 | [0410-split-array-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
+| [1448-maximum-69-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
