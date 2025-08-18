@@ -232,6 +232,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SakshamTapadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SakshamTapadia/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0113-path-sum-ii) |
+| [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
@@ -405,6 +407,7 @@
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SakshamTapadia/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
