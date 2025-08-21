@@ -112,6 +112,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SakshamTapadia/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -267,6 +268,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SakshamTapadia/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -380,6 +382,7 @@
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -476,6 +479,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SakshamTapadia/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -609,6 +613,7 @@
 | [0503-next-greater-element-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SakshamTapadia/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
