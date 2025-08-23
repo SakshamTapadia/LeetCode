@@ -307,6 +307,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SakshamTapadia/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SakshamTapadia/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -385,6 +386,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
@@ -755,6 +757,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
