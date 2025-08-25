@@ -235,6 +235,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -875,6 +877,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SakshamTapadia/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
