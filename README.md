@@ -168,6 +168,7 @@
 | [0012-integer-to-roman](https://github.com/SakshamTapadia/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SakshamTapadia/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/SakshamTapadia/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SakshamTapadia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -217,6 +218,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SakshamTapadia/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SakshamTapadia/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -351,6 +353,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
@@ -390,6 +393,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SakshamTapadia/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
