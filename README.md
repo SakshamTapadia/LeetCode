@@ -283,6 +283,7 @@
 | [1813-maximum-erasure-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1917-maximum-average-pass-ratio](https://github.com/SakshamTapadia/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SakshamTapadia/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -604,6 +605,7 @@
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/SakshamTapadia/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SakshamTapadia/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -749,6 +751,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/SakshamTapadia/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
