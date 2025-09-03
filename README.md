@@ -316,6 +316,7 @@
 | [3194-find-words-containing-character](https://github.com/SakshamTapadia/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SakshamTapadia/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SakshamTapadia/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -457,6 +458,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SakshamTapadia/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SakshamTapadia/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SakshamTapadia/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -589,6 +591,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SakshamTapadia/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/SakshamTapadia/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SakshamTapadia/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SakshamTapadia/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -782,6 +785,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -945,4 +949,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
