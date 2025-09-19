@@ -457,6 +457,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SakshamTapadia/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/SakshamTapadia/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -710,6 +711,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/SakshamTapadia/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
