@@ -48,6 +48,7 @@
 | [0012-integer-to-roman](https://github.com/SakshamTapadia/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SakshamTapadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/SakshamTapadia/LeetCode/tree/master/0198-house-robber) |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0113-path-sum-ii) |
