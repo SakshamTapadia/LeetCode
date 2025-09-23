@@ -1,20 +1,25 @@
 class Solution {
 public:
-    static int compareVersion(string& v1, string& v2) {
-        const int n1=v1.size(), n2=v2.size();
-        int x1=0, x2=0;
-        for(int i=0, j=0; i<n1 || j<n2; i++, j++){
-            while(i<n1 && v1[i]!='.'){
-                x1=10*x1+(v1[i++]-'0');
-            }
-            while(j<n2 && v2[j]!='.'){
-                x2=10*x2+(v2[j++]-'0');
-            }
-            if (x1<x2) return -1;
-            else if (x1>x2) return 1;
-            x1=0;
-            x2=0;
+    int compareVersion(string version1, string version2) {
+        vector<int> v1 = parse(version1);
+        vector<int> v2 = parse(version2);
+
+        int n = max(v1.size(), v2.size());
+        for (int i = 0; i < n; ++i) {
+            int num1 = i < v1.size() ? v1[i] : 0;
+            int num2 = i < v2.size() ? v2[i] : 0;
+            if (num1 < num2) return -1;
+            if (num1 > num2) return 1;
         }
         return 0;
+    }
+    vector<int> parse(const string& version) {
+        vector<int> nums;
+        stringstream ss(version);
+        string temp;
+        while (getline(ss, temp, '.')) {
+            nums.push_back(stoi(temp));
+        }
+        return nums;
     }
 };
