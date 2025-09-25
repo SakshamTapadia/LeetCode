@@ -52,6 +52,7 @@
 | [0020-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SakshamTapadia/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SakshamTapadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamTapadia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -112,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SakshamTapadia/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SakshamTapadia/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/0120-triangle) |
@@ -525,6 +527,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SakshamTapadia/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0143-reorder-list) |
