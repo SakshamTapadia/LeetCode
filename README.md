@@ -281,6 +281,7 @@
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/SakshamTapadia/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SakshamTapadia/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -484,6 +485,7 @@
 | [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/SakshamTapadia/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1013,6 +1015,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/SakshamTapadia/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Game Theory
 |  |
