@@ -289,6 +289,7 @@
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
@@ -489,6 +490,7 @@
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1326-sum-of-floored-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1326-sum-of-floored-pairs) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1448-maximum-69-number) |
@@ -624,6 +626,7 @@
 | [0611-valid-triangle-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -802,6 +805,7 @@
 | [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SakshamTapadia/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
