@@ -1,26 +1,18 @@
 class Solution {
 public:
     int minScoreTriangulation(vector<int>& values) {
-        unordered_map<int, int> memo;
-        int n = values.size();
-        function<int(int, int)> dp = [&](int i, int j) -> int {
-            if (i + 2 > j) {
-                return 0;
-            }
-            if (i + 2 == j) {
-                return values[i] * values[i + 1] * values[j];
-            }
-            int key = i * n + j;
-            if (!memo.count(key)) {
-                int minScore = INT_MAX;
-                for (int k = i + 1; k < j; k++) {
-                    minScore = min(minScore, values[i] * values[k] * values[j] +
-                                                 dp(i, k) + dp(k, j));
+    int n = values.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        for (int len = 3; len <= n; ++len) {
+            for (int i = 0; i + len - 1 < n; ++i) {
+                int j = i + len - 1;
+                dp[i][j] = INT_MAX;
+                for (int k = i + 1; k < j; ++k) {
+                    int score = dp[i][k] + dp[k][j] + values[i] * values[k] * values[j];
+                    dp[i][j] = min(dp[i][j], score);
                 }
-                memo[key] = minScore;
             }
-            return memo[key];
-        };
-        return dp(0, n - 1);
+        }
+        return dp[0][n-1];    
     }
 };
