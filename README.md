@@ -268,6 +268,7 @@
 | [0283-move-zeroes](https://github.com/SakshamTapadia/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SakshamTapadia/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0407-trapping-rain-water-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -438,6 +439,7 @@
 | [0036-valid-sudoku](https://github.com/SakshamTapadia/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/SakshamTapadia/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -654,6 +656,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SakshamTapadia/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/SakshamTapadia/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/SakshamTapadia/LeetCode/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/SakshamTapadia/LeetCode/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
@@ -713,6 +716,7 @@
 | [0207-course-schedule](https://github.com/SakshamTapadia/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
