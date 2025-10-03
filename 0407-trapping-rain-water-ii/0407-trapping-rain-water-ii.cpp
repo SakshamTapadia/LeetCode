@@ -1,33 +1,55 @@
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        using tii = tuple<int, int, int>;
-        priority_queue<tii, vector<tii>, greater<tii>> pq;
-        int m = heightMap.size(), n = heightMap[0].size();
-        bool vis[m][n];
-        memset(vis, 0, sizeof vis);
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                    pq.emplace(heightMap[i][j], i, j);
-                    vis[i][j] = true;
-                }
-            }
+    vector<vector<int>> dirs = {{0, -1}, {-1, 0}, {0, 1}, {1, 0}};
+    
+    bool check(int i, int j, int n, int m) {
+        return i >= 0 && i < n && j >= 0 && j < m;
+    }
+    
+    int trapRainWater(vector<vector<int>>& mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+        priority_queue<pair<int, pair<int, int>>, 
+                       vector<pair<int, pair<int, int>>>, 
+                       greater<pair<int, pair<int, int>>>> pq;
+        
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        for (int col = 0; col < m; col++) {
+            pq.push({mat[0][col], {0, col}});
+            pq.push({mat[n-1][col], {n-1, col}});
+            vis[0][col] = 1;
+            vis[n-1][col] = 1;
         }
-        int ans = 0;
-        int dirs[5] = {-1, 0, 1, 0, -1};
+        for (int row = 1; row < n-1; row++) {
+            pq.push({mat[row][0], {row, 0}});
+            pq.push({mat[row][m-1], {row, m-1}});
+            vis[row][0] = 1;
+            vis[row][m-1] = 1;
+        }
+        
+        int total = 0;
+        
         while (!pq.empty()) {
-            auto [h, i, j] = pq.top();
+            auto [height, cell] = pq.top();
             pq.pop();
-            for (int k = 0; k < 4; ++k) {
-                int x = i + dirs[k], y = j + dirs[k + 1];
-                if (x >= 0 && x < m && y >= 0 && y < n && !vis[x][y]) {
-                    ans += max(0, h - heightMap[x][y]);
-                    vis[x][y] = true;
-                    pq.emplace(max(heightMap[x][y], h), x, y);
+            
+            int i = cell.first;
+            int j = cell.second;
+            
+            for (auto dir : dirs) {
+                int i_ = i + dir[0];
+                int j_ = j + dir[1];
+                
+                if (check(i_, j_, n, m) && !vis[i_][j_]) {
+                    vis[i_][j_] = 1;
+                    if (mat[i_][j_] < height) {
+                        total += (height - mat[i_][j_]);
+                    }
+                    pq.push({max(height, mat[i_][j_]), {i_, j_}});
                 }
             }
         }
-        return ans;
+        
+        return total;
     }
 };
