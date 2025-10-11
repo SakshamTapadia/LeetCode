@@ -1,28 +1,28 @@
 class Solution {
 public:
     long long maximumTotalDamage(vector<int>& power) {
-        map<int, int> count;
-        for (int p : power) {
-            count[p]++;
+        unordered_map<int, long long> freq;
+        for (int p : power) freq[p] += p; 
+
+        vector<int> vals;
+        for (auto &it : freq) vals.push_back(it.first);
+        sort(vals.begin(), vals.end());
+
+        int n = vals.size();
+        vector<long long> dp(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            long long take = freq[vals[i]];
+
+            int j = i - 1;
+            while (j >= 0 && vals[j] >= vals[i] - 2) j--;
+
+            if (j >= 0) take += dp[j];
+
+            long long skip = (i > 0 ? dp[i-1] : 0);
+            dp[i] = max(skip, take);
         }
-        vector<pair<int, int>> vec = {{-1e9, 0}};
-        for (auto& p : count) {
-            vec.push_back(p);
-        }
-        int n = vec.size();
-        vector<long long> f(n, 0);
-        long long mx = 0;
-        for (int i = 1, j = 1; i < n; i++) {
-            while (j < i && vec[j].first < vec[i].first - 2) {
-                mx = max(mx, f[j]);
-                j++;
-            }
-            f[i] = mx + 1LL * vec[i].first * vec[i].second;
-        }
-        long long ans = 0;
-        for (int i = 1; i < n; i++) {
-            ans = max(ans, f[i]);
-        }
-        return ans;
+
+        return dp[n-1];
     }
 };
