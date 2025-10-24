@@ -223,6 +223,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -407,6 +408,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SakshamTapadia/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SakshamTapadia/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SakshamTapadia/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -427,6 +429,7 @@
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -534,6 +537,7 @@
 | [1448-maximum-69-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SakshamTapadia/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SakshamTapadia/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -906,6 +910,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SakshamTapadia/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
