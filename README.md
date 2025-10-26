@@ -223,6 +223,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SakshamTapadia/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -339,6 +340,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SakshamTapadia/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SakshamTapadia/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SakshamTapadia/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SakshamTapadia/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1032,6 +1034,7 @@
 | [0838-design-linked-list](https://github.com/SakshamTapadia/LeetCode/tree/master/0838-design-linked-list) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SakshamTapadia/LeetCode/tree/master/3678-design-task-manager) |
 ## Simulation
@@ -1041,6 +1044,7 @@
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/SakshamTapadia/LeetCode/tree/master/1184-car-pooling) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SakshamTapadia/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SakshamTapadia/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SakshamTapadia/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
