@@ -1,7 +1,5 @@
 class Bank {
-private:
     vector<long long> balance;
-
 public:
     Bank(vector<long long>& balance) : balance(balance) {}
 
