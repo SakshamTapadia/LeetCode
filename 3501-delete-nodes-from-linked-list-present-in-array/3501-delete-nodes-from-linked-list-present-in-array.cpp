@@ -7,7 +7,8 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
- */class Solution {
+ */
+class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int> mpp(nums.begin(), nums.end());
