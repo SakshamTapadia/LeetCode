@@ -377,6 +377,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SakshamTapadia/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/SakshamTapadia/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
@@ -530,6 +531,7 @@
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SakshamTapadia/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SakshamTapadia/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SakshamTapadia/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SakshamTapadia/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -882,6 +884,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SakshamTapadia/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SakshamTapadia/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SakshamTapadia/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SakshamTapadia/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -927,6 +930,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SakshamTapadia/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-frog-jump-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/2591-frog-jump-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/SakshamTapadia/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/SakshamTapadia/LeetCode/tree/master/2690-house-robber-iv) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SakshamTapadia/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1005,6 +1009,7 @@
 | [1813-maximum-erasure-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SakshamTapadia/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SakshamTapadia/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1105,6 +1110,7 @@
 | [0239-sliding-window-maximum](https://github.com/SakshamTapadia/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/SakshamTapadia/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SakshamTapadia/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
