@@ -1,48 +1,42 @@
 class Solution {
 public:
     long long maxPower(vector<int>& stations, int r, int k) {
-        int n = stations.size();
-        vector<long long> cnt(n + 1);
-        for (int i = 0; i < n; i++) {
-            int left = max(0, i - r);
-            int right = min(n, i + r + 1);
-            cnt[left] += stations[i];
-            cnt[right] -= stations[i];
-        }
-
-        auto check = [&](long long val) -> bool {
-            vector<long long> diff = cnt;
-            long long sum = 0;
-            long long remaining = k;
-
-            for (int i = 0; i < n; i++) {
-                sum += diff[i];
-                if (sum < val) {
-                    long long add = val - sum;
-                    if (remaining < add) {
-                        return false;
-                    }
-                    remaining -= add;
-                    int end = min(n, i + 2 * r + 1);
-                    diff[end] -= add;
-                    sum += add;
-                }
-            }
-            return true;
-        };
-
-        long long lo = ranges::min(stations);
-        long long hi = accumulate(stations.begin(), stations.end(), 0LL) + k;
-        long long res = 0;
-        while (lo <= hi) {
-            long long mid = lo + (hi - lo) / 2;
-            if (check(mid)) {
-                res = mid;
-                lo = mid + 1;
+        long long left = 0;
+        long long right = accumulate(stations.begin(), stations.end(), 0LL) + k;
+        long long ans = 0;
+        while (left <= right) {
+            long long mid = (left + right) / 2;
+            if (isGood(stations, r, mid, k)) {
+                ans = mid; 
+                left = mid + 1; 
             } else {
-                hi = mid - 1;
+                right = mid - 1; 
             }
         }
-        return res;
+        return ans;
+    }
+
+    bool isGood(vector<int>& stations, int r, long long minPowerRequired, int additionalStations) {
+        int n = stations.size();
+        long long windowPower = accumulate(stations.begin(), stations.begin()+r, 0LL);
+        vector<int> additions(n, 0);
+        for (int i = 0; i < n; i++) {
+            if (i + r < n) {
+                windowPower += stations[i + r];
+            }
+            if (windowPower < minPowerRequired) {
+                long long needed = minPowerRequired - windowPower;
+                if (needed > additionalStations) {
+                    return false;
+                }
+                additions[min(n - 1, i + r)] += needed;
+                windowPower = minPowerRequired;
+                additionalStations -= needed;
+            }
+            if (i - r >= 0) {
+                windowPower -= stations[i - r] + additions[i - r];
+            }
+        }
+        return true;
     }
 };
