@@ -87,6 +87,7 @@
 | [1797-goal-parser-interpretation](https://github.com/SakshamTapadia/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SakshamTapadia/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/SakshamTapadia/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SakshamTapadia/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/SakshamTapadia/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SakshamTapadia/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -229,6 +230,7 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SakshamTapadia/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SakshamTapadia/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SakshamTapadia/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SakshamTapadia/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -539,6 +541,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SakshamTapadia/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SakshamTapadia/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/SakshamTapadia/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SakshamTapadia/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -854,6 +857,7 @@
 | [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SakshamTapadia/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/SakshamTapadia/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SakshamTapadia/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
