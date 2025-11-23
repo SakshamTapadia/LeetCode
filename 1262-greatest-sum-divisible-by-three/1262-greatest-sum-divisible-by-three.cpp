@@ -1,33 +1,18 @@
 class Solution {
+    int n;
+    vector<vector<int>> dp;
 public:
     int maxSumDivThree(vector<int>& nums) {
-        vector<int> v[3];
-        for (int num : nums) {
-            v[num % 3].push_back(num);
-        }
-        sort(v[1].begin(), v[1].end(), greater<int>());
-        sort(v[2].begin(), v[2].end(), greater<int>());
-        int tot = accumulate(nums.begin(), nums.end(), 0);
-        int remove = INT_MAX;
-
-        if (tot % 3 == 0) {
-            remove = 0;
-        } else if (tot % 3 == 1) {
-            if (v[1].size() >= 1) {
-                remove = min(remove, v[1].end()[-1]);
-            }
-            if (v[2].size() >= 2) {
-                remove = min(remove, v[2].end()[-2] + v[2].end()[-1]);
-            }
-        } else {
-            if (v[1].size() >= 2) {
-                remove = min(remove, v[1].end()[-2] + v[1].end()[-1]);
-            }
-            if (v[2].size() >= 1) {
-                remove = min(remove, v[2].end()[-1]);
+        int n = nums.size();
+        int dp[n + 1][3];
+        dp[0][0] = 1; dp[0][1] = dp[0][2] = 0;
+        for (int i = 1; i <= n; ++i) {
+            for (int m = 0; m < 3; ++m) {
+                int skip = dp[i - 1][m], pick = 0, x = dp[i - 1][(m + nums[i - 1]) % 3];
+                if (x) pick = nums[i - 1] + x;
+                dp[i][m] = max(pick, skip);
             }
         }
-
-        return tot - remove;
+        return dp[n][0] - 1;
     }
 };
