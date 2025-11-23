@@ -7,21 +7,27 @@ public:
         }
         sort(v[1].begin(), v[1].end(), greater<int>());
         sort(v[2].begin(), v[2].end(), greater<int>());
+        int tot = accumulate(nums.begin(), nums.end(), 0);
+        int remove = INT_MAX;
 
-        int ans = 0;
-        int lb = v[1].size(), lc = v[2].size();
-        for (int cntb = lb - 2; cntb <= lb; ++cntb) {
-            if (cntb >= 0) {
-                for (int cntc = lc - 2; cntc <= lc; ++cntc) {
-                    if (cntc >= 0 && (cntb - cntc) % 3 == 0) {
-                        ans = max(ans, accumulate(v[1].begin(),
-                                                  v[1].begin() + cntb, 0) +
-                                           accumulate(v[2].begin(),
-                                                      v[2].begin() + cntc, 0));
-                    }
-                }
+        if (tot % 3 == 0) {
+            remove = 0;
+        } else if (tot % 3 == 1) {
+            if (v[1].size() >= 1) {
+                remove = min(remove, v[1].end()[-1]);
+            }
+            if (v[2].size() >= 2) {
+                remove = min(remove, v[2].end()[-2] + v[2].end()[-1]);
+            }
+        } else {
+            if (v[1].size() >= 2) {
+                remove = min(remove, v[1].end()[-2] + v[1].end()[-1]);
+            }
+            if (v[2].size() >= 1) {
+                remove = min(remove, v[2].end()[-1]);
             }
         }
-        return ans + accumulate(v[0].begin(), v[0].end(), 0);
+
+        return tot - remove;
     }
 };
