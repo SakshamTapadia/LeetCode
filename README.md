@@ -315,6 +315,7 @@
 | [0611-valid-triangle-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/SakshamTapadia/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/SakshamTapadia/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SakshamTapadia/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0792-binary-search) |
