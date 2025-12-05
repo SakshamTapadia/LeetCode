@@ -283,6 +283,7 @@
 | [0037-sudoku-solver](https://github.com/SakshamTapadia/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/SakshamTapadia/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SakshamTapadia/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SakshamTapadia/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -581,6 +582,7 @@
 | [0029-divide-two-integers](https://github.com/SakshamTapadia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/SakshamTapadia/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SakshamTapadia/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/SakshamTapadia/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SakshamTapadia/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SakshamTapadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SakshamTapadia/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
