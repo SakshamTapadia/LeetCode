@@ -1,39 +1,28 @@
 class Solution {
-private:
-    void backtrack(string& ans, string& temp, vector<bool>& visited, vector<char>& nums, int& count, int i, int& n, int& k)
-    {
-        if(i >= n)
-        {
-            count++;
-            if(count == k)
-                ans += temp;
-            return;
-        }
-        for(int idx=0; idx<nums.size(); idx++)
-        {
-            if(!visited[idx])
-            {
-                temp.push_back(nums[idx]);
-                visited[idx] = true;
-                backtrack(ans, temp, visited, nums, count, i+1, n, k);
-                temp.pop_back();
-                visited[idx] = false;
-                if(!ans.empty()) return;
-            }
-        }
-    }
 public:
-    string getPermutation(int n, int k) 
-    {
-        vector<bool> visited (n,false);
-        vector<char> nums;
-        int count = 0;
-        for(int i=1; i<=n; i++)
-            nums.push_back('0' + i);
-            
-        string temp = "";
+    string getPermutation(int n, int k) {
+        vector<int> numbers;
+        long fact = 1;
+        for(int i=1; i<n; i++){
+            fact *= i;
+            numbers.push_back(i);
+        }
+        numbers.push_back(n);
+        k = k-1;
         string ans = "";
-        backtrack(ans, temp, visited, nums, count, 0, n, k);
+        while(true){
+            int idx = k/fact;
+            ans.append(to_string(numbers[idx]));
+            numbers.erase(numbers.begin() + idx);
+            k = k % fact;
+            if(k==0) break;
+            fact = fact/numbers.size();
+        }
+
+        for(int i=0; i<numbers.size(); i++){
+            ans.append(to_string(numbers[i]));
+        }
+
         return ans;
     }
 };
