@@ -1,33 +1,47 @@
 class Solution {
 public:
-    using int2=pair<int, int>;
-    vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson)
-    {
-        vector<vector<int2>> adj(n);
-        for(auto& meet: meetings){
-            int x=meet[0], y=meet[1], time=meet[2];
-            adj[x].emplace_back(time, y);
-            adj[y].emplace_back(time, x);
+
+    vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson) {
+        sort(meetings.begin(), meetings.end(), [](vector<int>&a,vector<int>&b){
+            return a[2]<b[2];
+        });
+        vector<int>par(n);
+        for(int i=0;i<n;i++){
+            par[i]=i;
         }
-        vector<int> known(n, INT_MAX);
-        vector<int> list;
-        priority_queue<int2, vector<int2>, greater<int2>> pq;
-        pq.emplace(0, 0);
-        pq.emplace(0, firstPerson);
-        while(!pq.empty()){
-            auto [s, x]=pq.top();
-            pq.pop();
-            if (known[x]!=INT_MAX) continue;
-            list.push_back(x);
-            known[x]=s;
-            for(auto& [t, y]: adj[x]){
-                if (known[y]!=INT_MAX ||t<s) continue;
-                pq.emplace(t, y);
-            
+        par[firstPerson]=0;
+        function<int(int)> find=[&](int a){
+            if(par[a]==a)return a;
+            else return par[a]=find(par[a]);
+        };
+        function<void(int,int b)> union_=[&](int a,int b){
+           if(a>b){ swap(a,b);}
+           int A=find(a);
+           int B=find(b);
+           if(A<B){
+            par[B]=A;
+           }else if(B<A){
+            par[A]=B;
+           }
+
+        };
+
+        for(int i=0;i<meetings.size();i++){
+            int j=i;
+            for(;j<meetings.size()&&meetings[i][2]==meetings[j][2];j++){
+                union_(meetings[j][0],meetings[j][1]);
             }
+            for(int k=i;k<j;k++){
+                if(find(meetings[k][0])!=0)par[meetings[k][0]]=meetings[k][0];
+                if(find(meetings[k][1])!=0)par[meetings[k][1]]=meetings[k][1];
+            }
+            i=j-1;
         }
-        
-        return list;
+        vector<int> ans;
+        for(int i=0;i<n;i++){
+            if(par[i]==0)ans.push_back(i);
+        }
+        return ans;
+
     }
 };
-
