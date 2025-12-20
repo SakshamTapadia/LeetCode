@@ -73,6 +73,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SakshamTapadia/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -337,6 +338,7 @@
 | [0907-koko-eating-bananas](https://github.com/SakshamTapadia/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/SakshamTapadia/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SakshamTapadia/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
