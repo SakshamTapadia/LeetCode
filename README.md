@@ -72,6 +72,7 @@
 | [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
+| [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SakshamTapadia/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -233,6 +234,7 @@
 | [0496-next-greater-element-i](https://github.com/SakshamTapadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SakshamTapadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SakshamTapadia/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/SakshamTapadia/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -503,6 +505,7 @@
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SakshamTapadia/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SakshamTapadia/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -926,6 +929,7 @@
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SakshamTapadia/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
