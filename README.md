@@ -76,6 +76,7 @@
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SakshamTapadia/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SakshamTapadia/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SakshamTapadia/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -147,6 +148,7 @@
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/SakshamTapadia/LeetCode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SakshamTapadia/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SakshamTapadia/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -347,6 +349,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SakshamTapadia/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/SakshamTapadia/LeetCode/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SakshamTapadia/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-largest-perimeter-triangle) |
