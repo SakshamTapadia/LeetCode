@@ -546,6 +546,7 @@
 | [0794-swim-in-rising-water](https://github.com/SakshamTapadia/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SakshamTapadia/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -751,6 +752,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SakshamTapadia/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -780,6 +782,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SakshamTapadia/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Divide and Conquer
 |  |
