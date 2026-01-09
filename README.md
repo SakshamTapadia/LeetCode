@@ -239,6 +239,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SakshamTapadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/SakshamTapadia/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/SakshamTapadia/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/SakshamTapadia/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/SakshamTapadia/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -546,6 +547,7 @@
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/SakshamTapadia/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -752,6 +754,7 @@
 | [0337-house-robber-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -782,6 +785,7 @@
 | [0337-house-robber-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -916,6 +920,7 @@
 | [0547-number-of-provinces](https://github.com/SakshamTapadia/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SakshamTapadia/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/SakshamTapadia/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SakshamTapadia/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/SakshamTapadia/LeetCode/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SakshamTapadia/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
