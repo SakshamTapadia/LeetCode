@@ -71,6 +71,7 @@
 | [0520-detect-capital](https://github.com/SakshamTapadia/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SakshamTapadia/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/SakshamTapadia/LeetCode/tree/master/0742-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/SakshamTapadia/LeetCode/tree/master/0868-push-dominoes) |
@@ -143,6 +144,7 @@
 | [0337-house-robber-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/SakshamTapadia/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SakshamTapadia/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/SakshamTapadia/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/SakshamTapadia/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0867-new-21-game) |
