@@ -393,6 +393,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/SakshamTapadia/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1895-largest-magic-square](https://github.com/SakshamTapadia/LeetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/SakshamTapadia/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SakshamTapadia/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -586,6 +587,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SakshamTapadia/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SakshamTapadia/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1895-largest-magic-square](https://github.com/SakshamTapadia/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SakshamTapadia/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SakshamTapadia/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SakshamTapadia/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -615,6 +617,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/SakshamTapadia/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/SakshamTapadia/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/SakshamTapadia/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1895-largest-magic-square](https://github.com/SakshamTapadia/LeetCode/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SakshamTapadia/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SakshamTapadia/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SakshamTapadia/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
