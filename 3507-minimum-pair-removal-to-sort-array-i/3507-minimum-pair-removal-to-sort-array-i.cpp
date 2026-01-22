@@ -1,24 +1,29 @@
 class Solution {
 public:
     int minimumPairRemoval(std::vector<int>& nums) {
+        int n = nums.size();
+        std::vector<int> next(n);
+        std::iota(next.begin(), next.end(), 1);
+        next[n - 1] = -1;
         int count = 0;
 
-        while (nums.size() > 1) {
+        while (n - count > 1) {
+            int curr = 0;
+            int target = 0;
+            int targetAdjSum = nums[target] + nums[next[target]];
             bool isAscending = true;
-            int minSum = std::numeric_limits<int>::max();
-            int targetIndex = -1;
 
-            for (size_t i = 0; i < nums.size() - 1; ++i) {
-                int sum = nums[i] + nums[i + 1];
-
-                if (nums[i] > nums[i + 1]) {
+            while (curr != -1 && next[curr] != -1) {
+                if (nums[curr] > nums[next[curr]]) {
                     isAscending = false;
                 }
 
-                if (sum < minSum) {
-                    minSum = sum;
-                    targetIndex = static_cast<int>(i);
+                int currAdjSum = nums[curr] + nums[next[curr]];
+                if (currAdjSum < targetAdjSum) {
+                    target = curr;
+                    targetAdjSum = currAdjSum;
                 }
+                curr = next[curr];
             }
 
             if (isAscending) {
@@ -26,8 +31,8 @@ public:
             }
 
             count++;
-            nums[targetIndex] = minSum;
-            nums.erase(nums.begin() + targetIndex + 1);
+            next[target] = next[next[target]];
+            nums[target] = targetAdjSum;
         }
 
         return count;
