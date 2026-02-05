@@ -456,6 +456,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/SakshamTapadia/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SakshamTapadia/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3379-transformed-array](https://github.com/SakshamTapadia/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SakshamTapadia/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SakshamTapadia/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SakshamTapadia/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1267,6 +1268,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SakshamTapadia/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/SakshamTapadia/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/SakshamTapadia/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SakshamTapadia/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SakshamTapadia/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
