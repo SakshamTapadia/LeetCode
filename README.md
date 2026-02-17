@@ -534,6 +534,7 @@
 | [0040-combination-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/SakshamTapadia/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/SakshamTapadia/LeetCode/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/SakshamTapadia/LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/SakshamTapadia/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SakshamTapadia/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -989,6 +990,7 @@
 | [0268-missing-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamTapadia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SakshamTapadia/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/SakshamTapadia/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/SakshamTapadia/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SakshamTapadia/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SakshamTapadia/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
